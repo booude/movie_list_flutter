@@ -20,6 +20,11 @@ dev_dependencies:
   flutter_launcher_icons: ^0.13.1 #app icon generator
 
 flutter:
+  fonts:
+    - family: Lota Grotesque
+      fonts:
+        - asset: assets/fonts/lota-grotesque-font-family/LotaGrotesqueAlt3-Bold.otf
+        - asset: assets/fonts/lota-grotesque-font-family/LotaGrotesqueAlt3-Light.otf
   uses-material-design: true
   assets:
     - assets/
